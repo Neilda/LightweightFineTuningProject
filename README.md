@@ -10,4 +10,4 @@ This project is part of the Udacity Generative AI course, Generative AI Fundamen
 PEFT Technique: LoRA <br>
 Model: GPT-2 <br>
 Evaluation approach: 'evaluate' method with a Hugging Face Trainer <br>
-Fine-tuning dataset:
+Fine-tuning dataset: fka/awesome-chatgpt-prompts
