@@ -7,7 +7,7 @@ This project is part of the Udacity Generative AI course, Generative AI Fundamen
 3. Perform inference using the fine-tuned model and compare its performance to the original model
 
 <h1>Project Choices</h1>
-PEFT Technique:LoRA
-Model: GPT-2
-Evaluation approach: 'evaluate' method with a Hugging Face Trainer
-Fine-tuning dataset:
+**PEFT Technique:**LoRA <br>
+**Model:** GPT-2 <br>
+**Evaluation approach:** 'evaluate' method with a Hugging Face Trainer <br>
+**Fine-tuning dataset:**
